@@ -36,6 +36,8 @@ cybersec-genai-lab/
 
 ├── requirements.txt # Required Python packages
 
+├── reflection.md # Discusses the project and my experience with it
+
 └── README.md # Project overview and documentation
 
 
