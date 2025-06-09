@@ -25,6 +25,7 @@ This project explores the use of generative AI models to solve real-world cybers
 
 ## Project Structure
 cybersec-genai-lab/
+
 ├── data/ # Datasets or log files
 
 ├── models/ # Model files (if saved locally)
