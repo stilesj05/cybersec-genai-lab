@@ -1,4 +1,4 @@
-# cybersec-genai-lab
+# NSF REU Week 2: Hands On Activity
 
 **Date:** June 8, 2025
 
