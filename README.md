@@ -14,8 +14,11 @@ This project explores the use of generative AI models to solve real-world cybers
 ## Hugging Face Models Used
 
 | CyberNative/CyberBase-13b
+
 | ZySec-AI/ZySec-7B-AWQ
+
 | fdtn-ai/Foundation-Sec-8B
+
 | Canstralian/CyberAttackDetection
 
 ---
@@ -23,10 +26,15 @@ This project explores the use of generative AI models to solve real-world cybers
 ## Project Structure
 cybersec-genai-lab/
 ├── data/ # Datasets or log files
+
 ├── models/ # Model files (if saved locally)
+
 ├── notebooks/ # Colab notebook
+
 ├── outputs/ # Screenshots of outputs
+
 ├── requirements.txt # Required Python packages
+
 └── README.md # Project overview and documentation
 
 
