@@ -1,6 +1,5 @@
 # cybersec-genai-lab
 
-**REU Training: Generative AI Models for Cybersecurity**  
 **Date:** June 8, 2025
 
 ---
