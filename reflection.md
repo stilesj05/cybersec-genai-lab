@@ -1,4 +1,4 @@
-# Reflection: Week 2 – Generative AI Models for Cybersecurity
+# Reflection: Week 2 NSF REU Hands On Activity
 
 ## Cybersecurity Domains per Model
 
